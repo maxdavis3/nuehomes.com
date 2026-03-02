@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nuehomes.com/sitemap.xml
